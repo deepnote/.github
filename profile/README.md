@@ -22,7 +22,7 @@ Deepnote is a drop-in replacement for Jupyter with AI-first design, sleek UI, ne
 - [Enterprise](https://deepnote.com/enterprise?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main)
 - [Explore Deepnote apps](https://deepnote.com/explore?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main)
 - [Trust Center](https://security.deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main)
-- [We are hireing](https://deepnote.com/join-us?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main)
+- [We are hiring](https://deepnote.com/join-us?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main)
 
 ## Where to find us? 
 Need help with Deepnote? We are happy to connect! Open an issue, or connect with us on [X](https://x.com/DeepnoteHQ) or [LinkedIn](https://www.linkedin.com/company/deepnote/).
