@@ -5,7 +5,7 @@
 
 # Deepnote
 
-Deepnote is a drop-in replacement for Jupyter with AI-first design, sleek UI, new blocks, and native data integrations. Use Deepnote Open Source to work locally in your favorite IDE, then scale to Deepnote Cloud for real-time collaboration, governance, and deployable data apps. Deepnote is used by 500,000 data professionals and companies like Estée Lauder, SoundCloud, Statsig, Gusto, and beyond.
+Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Deepnote Open Source to work locally in your favorite IDE, then scale to Deepnote Cloud for real-time collaboration, governance, and deployable data apps. Deepnote is used by 500,000 data professionals and companies such as Estée Lauder, SoundCloud, Statsig, Gusto, and more.
 
 ## Get started with Deepnote Open Source
 - [Quickstart](https://deepnote.com/docs/getting-started?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main)
@@ -13,7 +13,7 @@ Deepnote is a drop-in replacement for Jupyter with AI-first design, sleek UI, ne
 
 ## Repositories
 - [deepnote](https://github.com/deepnote/deepnote): Main notebook repo
-- [vscode-deepnote](https://github.com/deepnote/vscode-deepnote): Deepnote extension for VS Code, Cursor, and Windsurf
+- [vscode-deepnote](https://github.com/deepnote/vscode-deepnote): Deepnote extension for VS Code, Cursor, Antigravity, and Windsurf
 - [jupyterlab-deepnote](https://github.com/deepnote/jupyterlab-deepnote): JupyterLab extension for `.deepnote` projects
 - [deepnote-toolkit](https://github.com/deepnote/deepnote-toolkit): Essential Python helpers for Deepnote environments
 
