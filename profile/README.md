@@ -14,7 +14,6 @@ Deepnote is a drop-in replacement for Jupyter with AI-first design, sleek UI, ne
 ## Repositories
 - [deepnote](https://github.com/deepnote/deepnote): Main notebook repo
 - [vscode-deepnote](https://github.com/deepnote/vscode-deepnote): Deepnote extension for VS Code, Cursor, and Windsurf
-- [jupyterlab-deepnote](https://github.com/deepnote/jupyterlab-deepnote): JupyterLab extension for `.deepnote` projects
 - [deepnote-toolkit](https://github.com/deepnote/deepnote-toolkit): Essential Python helpers for Deepnote environments
 
 ## Quick links
